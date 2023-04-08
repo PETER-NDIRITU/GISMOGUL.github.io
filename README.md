@@ -1,2 +1,2 @@
-# GISMOGUL.github.io
+# PETER-NDIRITU.github.io
 GIS MOGUL
